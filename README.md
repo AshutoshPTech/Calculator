@@ -42,10 +42,12 @@ We welcome contributions from all aspiring web developers. If you find any issue
 
 ### Support
 
-If you need any assistance or have questions regarding the task or the internship program, you can reach out to us via email at contact@technohacksedu.com or visit our website for more information.
+If you encounter any issues or have questions regarding the project, feel free to open an issue or contact the project maintainers.
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
+
+Happy coding! 🚀
 
 
